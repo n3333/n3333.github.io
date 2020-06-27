@@ -10,3 +10,6 @@ James Bond, Agent 007, ist ein von Ian Fleming erfundener Geheimagent, der für 
 Bond Zitat:
 > Wodka Martini – geschüttelt, nicht gerührt
 
+Bild:
+<img src="https://fotos.piqs.de/7/8/c/a/a/b66013ef5dc3453dde49a0e43be8e36f.jpg"/>
+
