@@ -7,3 +7,6 @@ James Bond, Agent 007, ist ein von Ian Fleming erfundener Geheimagent, der für 
 * liebt Verfolgungsjagden
 * hat Spaß am Glücksspiel
 
+Bond Zitat:
+> Wodka Martini – geschüttelt, nicht gerührt
+
